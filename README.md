@@ -2,7 +2,7 @@
  Aqui segue uma config que não foi elaborada por minha autoria mas fiz e configurei ao meu jeito conforme o vídeo no youtube
 que basta tão somente assistir e fazer mais nada!
 
-###🔰 Inserindo Logo em ASCII (Modificação_
+### 🔰 Inserindo Logo em ASCII (Modificação_
 Um exemplo é essa SS logo abaixo para saber como fica, foi usado o jp2a para passar em código ASCII e depois segue o figurino
 do próprio nefetch em questão de cores disponíveis dentre outras coisas
 
