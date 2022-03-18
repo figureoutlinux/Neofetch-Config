@@ -1,4 +1,4 @@
-<img title="Subscribe" src="https://figureoutlinux.github.io/linux/header.png" /></a> 
+<a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://figureoutlinux.github.io/linux/header.png" /></a> 
 <br />
 #
 
