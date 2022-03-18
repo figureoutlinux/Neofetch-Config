@@ -4,7 +4,7 @@ que basta tão somente assistir e fazer mais nada!
 
 ### 🔰 Inserindo Logo em ASCII (Modificação e Personalização do Logo)
 Um exemplo é essa SS logo abaixo para saber como fica, foi usado o jp2a para passar em código ASCII e depois segue o figurino
-do próprio nefetch em questão de cores disponíveis dentre outras coisas
+do próprio neofetch em questão de cores disponíveis dentre outras coisas
 
 <a href="https://www.youtube.com/channel/UC_XRbJwaHSMLUZWFGndlGTQ?sub_confirmation=1"><img title="Subscribe" src="https://figureoutlinux.github.io/linux/neofetch/a.png" /></a>
 
